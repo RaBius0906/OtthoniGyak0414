@@ -1,0 +1,7 @@
+C:\Users\CFY\source\repos\SnModulZaroGyak\ModulZaroGyak\obj\Debug\ModulZaroGyak.csprojAssemblyReference.cache
+C:\Users\CFY\source\repos\SnModulZaroGyak\ModulZaroGyak\obj\Debug\ModulZaroGyak.csproj.CoreCompileInputs.cache
+C:\Users\CFY\source\repos\SnModulZaroGyak\ModulZaroGyak\bin\Debug\ModulZaroGyak.exe.config
+C:\Users\CFY\source\repos\SnModulZaroGyak\ModulZaroGyak\bin\Debug\ModulZaroGyak.exe
+C:\Users\CFY\source\repos\SnModulZaroGyak\ModulZaroGyak\bin\Debug\ModulZaroGyak.pdb
+C:\Users\CFY\source\repos\SnModulZaroGyak\ModulZaroGyak\obj\Debug\ModulZaroGyak.exe
+C:\Users\CFY\source\repos\SnModulZaroGyak\ModulZaroGyak\obj\Debug\ModulZaroGyak.pdb
